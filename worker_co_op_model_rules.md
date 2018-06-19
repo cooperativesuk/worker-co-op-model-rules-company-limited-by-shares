@@ -1,54 +1,54 @@
  ###### Co-operatives UK Worker Co-operative Model – Company Limited by Shares 
  
 ___
-**Companies Act 2006** 
+<p align="center"><strong>Companies Act 2006</strong></p>
     
-**Private Company Limited by Shares** 
+<p align="center"><strong>Private Company Limited by Shares</strong></p>
     
-**Articles of** 
+<p align="center"><strong>Articles of</strong></p>
     
-**…………………………………….** 
- ___
+<p align="center"><strong>……………………………………</strong></p>
+___
  
- **Interpretations**  
+  **Interpretations**  
 1. In these Articles: 
- **“Address”** means a postal address or, for the purposes of electronic communication, a fax 
+* **“Address”** means a postal address or, for the purposes of electronic communication, a fax 
     number, email address or telephone number for receiving text messages; 
- **“Articles”** means the Company’s articles of association; 
- **“The Board of Directors” or “Board”**  means all those persons appointed to perform the 
+* **“Articles”** means the Company’s articles of association; 
+* **“The Board of Directors” or “Board”**  means all those persons appointed to perform the 
     duties of directors of the Company;   
- **“Companies Acts” or “the Act”** means the Companies Acts (as defined in section 2 of the 
+* **“Companies Acts” or “the Act”** means the Companies Acts (as defined in section 2 of the 
     Companies Act 2006) in so far as they apply to the company;   
- **“The Co-operative”** means the above-named company; 
-**“Co-operative Principles”** are the principles defined in the International Co-operative Alliance 
+* **“The Co-operative”** means the above-named company; 
+* **“Co-operative Principles”** are the principles defined in the International Co-operative Alliance 
     Statement of Co-operative Identity. The principles are those of voluntary and open membership, 
     democratic member control, member economic participation, autonomy and independence, 
     education, training and information, co-operation among co-operatives and concern for the 
     community;   
-**“Co-operative Share”** refers to an ordinary voting share held by an employee, who is a 
+* **“Co-operative Share”** refers to an ordinary voting share held by an employee, who is a 
     member of the company having the rights set out in these Articles;  
- **“Director”** means a director of the Co-operative and includes any person occupying the 
+* **“Director”** means a director of the Co-operative and includes any person occupying the 
     position of Director, by whatever name called; 
- **“Document”** includes, unless otherwise stated, any document sent or supplied in electronic 
+* **“Document”** includes, unless otherwise stated, any document sent or supplied in electronic 
     form; 
- **“Electronic means”** has the meaning given in section 1168 of the Companies Act 2006; 
- **“Employee”** means anyone over the age of 16 holding a contract of employment with the 
+* **“Electronic means”** has the meaning given in section 1168 of the Companies Act 2006; 
+* **“Employee”** means anyone over the age of 16 holding a contract of employment with the 
     Co-operative to perform at least eight hours of work per week for the Co-operative;  
- **“Entrenched”** has the meaning given by section 22 of the Companies Act 2006 and as detailed 
+* **“Entrenched”** has the meaning given by section 22 of the Companies Act 2006 and as detailed 
     under the heading ‘Resolutions’ in these Articles; 
- **“Equity Share”** means a non-voting ordinary share in the Co-operative having the rights as set 
+* **“Equity Share”** means a non-voting ordinary share in the Co-operative having the rights as set 
     out in these Articles; 
- **“Equity Shareholder”** means a Person holding an Equity Share as defined in these Articles; 
- **“Member”** has the meaning given in section 112 of the Companies Act 2006 and as detailed 
+* **“Equity Shareholder”** means a Person holding an Equity Share as defined in these Articles; 
+* **“Member”** has the meaning given in section 112 of the Companies Act 2006 and as detailed 
     under 'Membership' in these Articles; 
- **“Par value”** means the value of the share at the time of its issue; 
- **"Person"**  means, unless the context requires otherwise, a natural person, unincorporated body, 
+* **“Par value”** means the value of the share at the time of its issue; 
+* **"Person"**  means, unless the context requires otherwise, a natural person, unincorporated body, 
     firm, partnership, corporate body or the nominee of an unincorporated body, firm, partnership or 
     corporate body; 
- **“Regulations”** has the meaning as detailed under ‘Regulations’ in these Articles; 
- **“Secretary”** means any person appointed to perform the duties of the Secretary of the 
+* **“Regulations”** has the meaning as detailed under ‘Regulations’ in these Articles; 
+* **“Secretary”** means any person appointed to perform the duties of the Secretary of the 
     Co-operative; 
-    **“Writing”** means the representation or reproduction of words, symbols or other information in a 
+* **“Writing”** means the representation or reproduction of words, symbols or other information in a 
     visible form by any method or combination of methods, whether sent or supplied in electronic 
     form or otherwise. 
  
@@ -86,9 +86,9 @@ ___
 8. All Employees on taking up employment with the Co-operative may be admitted to membership 
     of the Co-operative, except that the Co-operative in a general meeting may by a majority vote 
     decide to exclude from membership: 
-    (a) Newly appointed Employees during such reasonable probationary period as may be 
+    * (a) Newly appointed Employees during such reasonable probationary period as may be 
     specified in their terms and conditions of employment; 
-    (b) Employees working less than a prescribed number of hours per week (or per month); 
+    * (b) Employees working less than a prescribed number of hours per week (or per month); 
   provided that any such criteria for exclusion is applied equally to all Employees. 
 9. In accordance with the Co-operative Principle of voluntary and open membership, whilst the 
     Co-operative shall undertake to encourage its Employees to become Members, membership 
@@ -116,10 +116,10 @@ ___
 
       **Termination of Membership**  
 14. A Member shall cease to be a Member of the Co-operative immediately that s/he: 
-    (a) Ceases to be an Employee of the Co-operative; or 
-    (b) Resigns in Writing as a Member of the Co-operative to the Secretary; or 
-    (c) Is expelled from membership in accordance with these Articles; or 
-    (d) Dies, or in the opinion of the Board is unable to carry out their duties. 
+    * (a) Ceases to be an Employee of the Co-operative; or 
+    * (b) Resigns in Writing as a Member of the Co-operative to the Secretary; or 
+    * (c) Is expelled from membership in accordance with these Articles; or 
+    * (d) Dies, or in the opinion of the Board is unable to carry out their duties. 
 15. Membership shall cease on the date upon which the Member’s Co-operative Share is 
     transferred to another person in accordance with these Articles. 
 
@@ -127,7 +127,7 @@ ___
 16. A Member may be expelled from membership by a special resolution of the Co-operative stating 
     that it is in the best interests of the Co-operative that her/his membership is terminated. A 
     resolution to remove a Member from membership may only be passed if: 
-    (a) The Member has been given at least 21 days’ notice in Writing of the general meeting at 
+    * (a) The Member has been given at least 21 days’ notice in Writing of the general meeting at 
     which the resolution to expel them will be proposed and the reasons why it is to be 
     proposed; and 
 17. The Member or, at the option of the Member, an individual who is there to represent them (who 
@@ -141,9 +141,9 @@ ___
 19. All Employees on taking up employment with the Co-operative may be admitted to membership 
     of the Co-operative, except that the Co-operative in a General Meeting may by a majority vote 
     decide to exclude from membership: 
-    (a) Newly appointed Employees during such reasonable probationary period as may be 
+    * (a) Newly appointed Employees during such reasonable probationary period as may be 
     specified in their terms and conditions of employment; 
-    (b) Employees working less than a prescribed number of hours per week (or per month); 
+    * (b) Employees working less than a prescribed number of hours per week (or per month); 
   provided that any such criteria for exclusion is applied equally to all Employees. 
 20. In accordance with the Co-operative Principle of voluntary and open membership, whilst the 
     Co-operative shall undertake to encourage its Employees to become Members, membership 
@@ -200,12 +200,12 @@ ___
     75% of the Members in addition to the consent of 75% of the Equity Shareholders.  
 34. The Co-operative is prohibited from making any variation to the rights attached to the Equity 
     Shares which would have the effect of: 
-    (a) Enabling the Equity Shareholders to have the right to participate in a distribution of the net 
+    * (a) Enabling the Equity Shareholders to have the right to participate in a distribution of the net 
     assets of the Co-operative above the repayment of their Equity Shares at Par value; 
-    (b) Enabling the Equity Shareholders to have the right to vote at general meetings of the 
+    * (b) Enabling the Equity Shareholders to have the right to vote at general meetings of the 
     Co-operative. 
-
-      **All Equity Shares to be fully paid up**  
+    
+    **All Equity Shares to be fully paid up**  
 35. No Equity Share is to be issued for less than the aggregate of its nominal value and any 
     premium to be paid to the Co-operative in consideration for its issue. 
 
@@ -246,9 +246,9 @@ ___
     transmittee as having any title to that Equity Share. 
 42. A transmittee who produces such evidence of entitlement to Equity Shares as the Directors may 
     properly require, and subject to these Articles: 
-    (a) may, choose either to become the holder of those Equity Shares or to have them 
+    * (a) may, choose either to become the holder of those Equity Shares or to have them 
     transferred to another person; and 
-    (b) pending any transfer of the Equity Shares to another Person, has the same rights as the 
+    * (b) pending any transfer of the Equity Shares to another Person, has the same rights as the 
     holder had.  
 43. Transmittees do not have the right to attend or vote at a general meeting, a meeting of the 
     Equity Shareholders, or agree to a proposed written resolution, in respect of Equity Shares to 
@@ -275,10 +275,10 @@ ___
     meeting except the first shall be held not more than 15 months after the previous annual 
     general meeting.  
 47. The business of an annual general meeting shall comprise, where appropriate: 
-    (a) Consideration of accounts and balance sheets; 
-    (b) Consideration of Directors’ and auditor’s reports; 
-    (c) Elections to replace retiring Directors; 
-    (d) Appointment and remuneration of the auditor (or their equivalent). 
+    * (a) Consideration of accounts and balance sheets; 
+    * (b) Consideration of Directors’ and auditor’s reports; 
+    * (c) Elections to replace retiring Directors; 
+    * (d) Appointment and remuneration of the auditor (or their equivalent). 
 48. In accordance with the Co-operative Principle of democratic member control, the Co-operative 
     shall ensure that, in addition to the annual general meeting, at least four other general meetings 
     are held annually. The purpose of these meetings is to ensure that Members are given the 
@@ -306,12 +306,12 @@ ___
     provided that no Person shall hold a proxy for more than five Members at any one time in any 
     general meeting.  
 54. Proxies may only validly be appointed by a notice in Writing which: 
-    (a) States the name and Address of the Member appointing the proxy; 
-    (b) Identifies the Person appointed to be that Member’s proxy and the general meeting in 
+    * (a) States the name and Address of the Member appointing the proxy; 
+    * (b) Identifies the Person appointed to be that Member’s proxy and the general meeting in 
     relation to which that Person is appointed; 
-    (c) Is signed by or on behalf of the Member appointing the proxy, or is authenticated in such 
+    * (c) Is signed by or on behalf of the Member appointing the proxy, or is authenticated in such 
     manner as the Directors may determine; and 
-    (d) Is delivered to the Co-operative in accordance with the Articles and any instructions 
+    * (d) Is delivered to the Co-operative in accordance with the Articles and any instructions 
     contained in the notice of the general meeting to which they relate. 
 55. The Co-operative may require proxy notices to be delivered in a particular form and may specify 
     different forms for different purposes. 
@@ -358,8 +358,8 @@ ___
     quorum is not present, the Members present shall constitute a quorum. 
  
 65. The chairperson of a general meeting may adjourn the meeting whilst a quorum is present if: 
-    (a) The meeting consents to that adjournment; or 
-    (b) It appears to the chairperson that an adjournment is necessary to protect the safety of any 
+    * (a) The meeting consents to that adjournment; or 
+    * (b) It appears to the chairperson that an adjournment is necessary to protect the safety of any 
     persons attending the meeting or to ensure that the business of the meeting is conducted 
     in an orderly manner. 
 66. The chairperson must adjourn the meeting if directed to do so by the meeting. 
@@ -383,13 +383,13 @@ ___
 
       **Poll Votes**  
 73. A poll on a resolution may be demanded: 
-    (a) In advance of the general meeting where the matter is to be put to the vote; or 
-    (b) At a general meeting, either before a show of hands on that resolution or immediately 
+    * (a) In advance of the general meeting where the matter is to be put to the vote; or 
+    * (b) At a general meeting, either before a show of hands on that resolution or immediately 
     after the result of a show of hands on that resolution is declared. 
 74. A poll may be demanded by: 
-    (a) The chairperson of the meeting; 
-    (b) The Directors; 
-    (c) Two or more Persons having the right to vote on a resolution. 
+    * (a) The chairperson of the meeting; 
+    * (b) The Directors; 
+    * (c) Two or more Persons having the right to vote on a resolution. 
 75. A demand for a poll may be withdrawn if the poll has not yet been taken and the chairperson 
     consents to the withdrawal. 
 76. Polls must be taken immediately and in such manner as the chairperson of the meeting directs, 
@@ -397,17 +397,17 @@ ___
  
       **Resolutions**  
 77. Decisions at general meetings shall be made by passing resolutions: 
-    (a) Decisions involving an alteration to articles that have been Entrenched in accordance with 
+    * (a) Decisions involving an alteration to articles that have been Entrenched in accordance with 
     section 22 of the Act require the approval of 100% of the Members. 
-    (b) The following decisions must be made by special resolution: 
-    (i) Decisions involving an alteration to the Articles of the Co-operative, except where 
+    * (b) The following decisions must be made by special resolution: 
+      * (i) Decisions involving an alteration to the Articles of the Co-operative, except where 
     an article is Entrenched as detailed above;  
-    (ii) Decisions to expel Members;  
-    (iii) Decisions to dispose of assets of the Co-operative equivalent in value to one-third 
+      * (ii) Decisions to expel Members;  
+      * (iii) Decisions to dispose of assets of the Co-operative equivalent in value to one-third 
     of the Co-operative’s last published balance sheet, as detailed in these Articles; 
-    (iv) The decision to wind up the Co-operative; 
-    (v) Other decisions which are required so by statute. 
-    (c) All other decisions shall be made by ordinary resolution. 
+      * (iv) The decision to wind up the Co-operative; 
+      * (v) Other decisions which are required so by statute. 
+    * (c) All other decisions shall be made by ordinary resolution. 
 78. A special resolution is one passed by a majority of not less than 75% of votes cast at a general 
     meeting and an ordinary resolution is one passed by a simple majority (51%) of votes cast. 
 79. Resolutions may be passed at general meetings or by written resolution. 
@@ -417,9 +417,9 @@ ___
     Members have signified their agreement. 
 81. A written resolution shall be deemed to have been passed if, within 28 days of the written 
     resolution’s circulation date: 
-    (a) Written approval has been received from at least 75% of the Members where the 
+    * (a) Written approval has been received from at least 75% of the Members where the 
     resolution is a special resolution; 
-    (b) Written approval has been received from a simple majority of at least 51% of the 
+    * (b) Written approval has been received from a simple majority of at least 51% of the 
     Members where the resolution is an ordinary resolution. 
 82. In accordance with the Companies Acts, resolutions to remove a Director or auditor (or their 
     equivalent) of the Co-operative before the end of his/her period of office shall not be passed by 
@@ -477,9 +477,9 @@ ___
     such times and on such terms and conditions as they think proper provided however that the 
     general authority hereby granted to the Board members:
      
-    (a) Shall be limited to a maximum nominal amount of £100,000.
+    * (a) Shall be limited to a maximum nominal amount of £100,000.
      
-    (b) Shall expire not more than five years from the date of the incorporation of the 
+    * (b) Shall expire not more than five years from the date of the incorporation of the 
     Co-operative unless varied or revoked or renewed by the Co-operative in general 
     meeting. 
      
@@ -575,17 +575,17 @@ ___
     for Board meetings and voting where the matter relates to her/his own contract of employment 
     or in respect of her/his rights and interests as a Member or Equity Shareholder. 
 113.  Subject to anything to the contrary in these Articles: 
-    (a) In accordance with (but subject to) the Companies Acts, the Board of Directors may give 
+    * (a) In accordance with (but subject to) the Companies Acts, the Board of Directors may give 
     authorisation in respect of a situation in which a Director has, or could have, a direct or 
     indirect interest that conflicts, or possibly may conflict, with the interests of the 
     Co-operative; and  
-    (b) In authorising a situation the Board of Directors may decide, whether at the time of giving 
+    * (b) In authorising a situation the Board of Directors may decide, whether at the time of giving 
     the authorisation or subsequently, that if the conflicted Director has obtained any 
     information through her/his involvement in the situation otherwise that as a Director and in 
     respect of which s/he owes a duty of confidentiality to another Person, the Director is 
     under no obligation to: 
-    (i) Disclose that information to the Co-operative; and/or 
-    (ii) Use that information for the benefit of the Co-operative; 
+      * (i) Disclose that information to the Co-operative; and/or 
+      * (ii) Use that information for the benefit of the Co-operative; 
 where to do so would amount to a breach of confidence.
 
       **Expenses**  
@@ -595,19 +595,19 @@ where to do so would amount to a breach of confidence.
 
       **Termination of a Director’s Appointment**  
 115.  A person ceases to be a Director of the Co-operative as soon as:
-    (a) That person ceases to be a Member of the Co-operative (unless they are a co-opted 
+    * (a) That person ceases to be a Member of the Co-operative (unless they are a co-opted 
     independent external Director); 
-    (b) That person resigns from office in Writing to the Secretary of the Co-operative, and such 
+    * (b) That person resigns from office in Writing to the Secretary of the Co-operative, and such 
     resignation has taken effect in accordance with its terms; 
-    (c) That person is removed from office by an ordinary resolution of the Co-operative in 
+    * (c) That person is removed from office by an ordinary resolution of the Co-operative in 
     general meeting in accordance with these Articles and the Companies Acts; 
-    (d) That person ceases to be a Director by virtue of any provision of the Companies Acts or is 
+    * (d) That person ceases to be a Director by virtue of any provision of the Companies Acts or is 
     prohibited from being a Director by law; 
-    (e) A bankruptcy order is made against that person; 
-    (f) A registered medical practitioner who is treating that person gives a written opinion to the 
+    * (e) A bankruptcy order is made against that person; 
+    * (f) A registered medical practitioner who is treating that person gives a written opinion to the 
     Co-operative stating that the person has become physically or mentally incapable of 
     acting as a Director and may remain so for more than three months; 
-    (g) By reason of that person’s mental health, a court makes an order which wholly or partly 
+    * (g) By reason of that person’s mental health, a court makes an order which wholly or partly 
     prevents that person from personally exercising any powers or rights which that person 
     would otherwise have. 
 
@@ -616,10 +616,10 @@ where to do so would amount to a breach of confidence.
 116.  A Director may be expelled from office by a resolution of the Co-operative stating that it is in the 
     best interests of the Co-operative that her/his office is terminated. A resolution to remove a 
     Director from office may only be passed if: 
-    (a) The Director has been given at least 21 days’ notice in Writing of the general meeting at 
+    * (a) The Director has been given at least 21 days’ notice in Writing of the general meeting at 
     which the resolution to remove them from office will be proposed and the reasons why it is 
     to be proposed; and 
-    (b) The Director or, at the option of the Director, the Director’s representative (who need not 
+    * (b) The Director or, at the option of the Director, the Director’s representative (who need not 
     be a Member of the Co-operative) has been allowed to make representations to the 
     general meeting. 
 
@@ -647,16 +647,16 @@ where to do so would amount to a breach of confidence.
       **APPLICATION OF PROFIT**  
 121.  The profit of the Co-operative shall be applied in the following ways, in such proportions and in 
     such manner as the general meeting shall decide from time to time: 
-    (a) To create a general reserve for the continuation and development of the Co-operative; 
-    (b) In accordance with the Co-operative Principle of concern for community, to make 
+    * (a) To create a general reserve for the continuation and development of the Co-operative; 
+    * (b) In accordance with the Co-operative Principle of concern for community, to make 
     payment for social, co-operative and community purposes. 
-    (c) To Equity Shareholders in the Co-operative as payment of dividends on their investment in 
+    * (c) To Equity Shareholders in the Co-operative as payment of dividends on their investment in 
     the Co-operative; 
-    (d) In accordance with the Co-operative Principle of member economic participation, to a 
+    * (d) In accordance with the Co-operative Principle of member economic participation, to a 
     dividend for Members, either equally or in accordance with some other equitable formula 
     which recognises the relative contribution made by each Member to the business of the 
     Co-operative; 
-    (e) To the redemption of Equity Shares; 
+    * (e) To the redemption of Equity Shares; 
  
 122.  In accordance with the Co-operative Principle of member economic participation, the proportion 
     of profits paid out as dividends to Equity Shareholders shall never exceed the proportion paid 
@@ -695,10 +695,10 @@ where to do so would amount to a breach of confidence.
     separate share certificate shall be issued for Co-operative Shares and Equity Shares where a 
     Member holds shares of both classes.  
 126.  Every certificate must specify: 
-    (a) In respect of how many shares, of what class, it is issued; 
-    (b) The nominal value of the shares in each class; 
-    (c) That the shares in each class are fully paid up; and 
-    (d) Any distinguishing numbers assigned to the shares in each class. 
+    * (a) In respect of how many shares, of what class, it is issued; 
+    * (b) The nominal value of the shares in each class; 
+    * (c) That the shares in each class are fully paid up; and 
+    * (d) Any distinguishing numbers assigned to the shares in each class. 
 127.  Every share certificate shall have affixed to it the Co-operative’s seal or be executed in 
     accordance with the Companies Acts. 
  
@@ -758,12 +758,12 @@ where to do so would amount to a breach of confidence.
       **Register of Directors**  
 139.  The Co-operative shall maintain a register of Directors which shall include the following 
     particulars: 
-    (a) Name of the Director and any former names used by her/him for business purposes; 
-    (b) Service address; 
-    (c) Country of residence; 
-    (d) Nationality; 
-    (e) Business occupation, if any; 
-    (f) Date of birth. 
+    * (a) Name of the Director and any former names used by her/him for business purposes; 
+    * (b) Service address; 
+    * (c) Country of residence; 
+    * (d) Nationality; 
+    * (e) Business occupation, if any; 
+    * (f) Date of birth. 
 140.  The register of Directors shall be open for inspection to any Member of the Co-operative without 
     charge and to any other Person on payment of such fee as may be prescribed. 
 141.  The Co-operative shall also maintain a register of Director’s residential addresses which is not 
@@ -771,18 +771,18 @@ where to do so would amount to a breach of confidence.
 
       **Minutes**  
 142.  The Co-operative shall ensure that minutes are kept of all: 
-    (a) Proceedings at meetings of the Co-operative;  
-    (b) Proceedings at meeting of the Equity Shareholders; and 
-    (c) Proceedings at meetings of the Board of Directors and its sub-committees which include 
+    * (a) Proceedings at meetings of the Co-operative;  
+    * (b) Proceedings at meeting of the Equity Shareholders; and 
+    * (c) Proceedings at meetings of the Board of Directors and its sub-committees which include 
     names of the Directors present, decisions made and the reasons for those decisions. 
 
       **Accounts**  
 143.  The Board of Directors shall cause proper accounts to be kept and circulated in accordance with 
     the Companies Acts with respect to: 
-    (a) All sums of money received and expended by the Co-operative and the matters in which 
+    * (a) All sums of money received and expended by the Co-operative and the matters in which 
     the receipt and expenditure takes place; 
-    (b) All sales and purchases of goods by the Co-operative; 
-    (c) The assets and liabilities of the Co-operative. 
+    * (b) All sales and purchases of goods by the Co-operative; 
+    * (c) The assets and liabilities of the Co-operative. 
 144.  Proper accounts shall be deemed to have been kept if they give a true and fair record of the 
     state of the Co-operative's affairs and explain its transactions. 
 
@@ -817,11 +817,11 @@ where to do so would amount to a breach of confidence.
       **Indemnity and Insurance** 
 151.  Subject to the following article, any Director or former Director of the Co-operative may be 
     indemnified out of the Co-operative’s assets against: 
-    (a) Any liability incurred by that Director in connection with any negligence, default, breach of 
+    * (a) Any liability incurred by that Director in connection with any negligence, default, breach of 
     duty or breach of trust in relation to the Co-operative;  
-    (b) Any liability incurred by that Director in connection with the activities of the Co-operative in 
+    * (b) Any liability incurred by that Director in connection with the activities of the Co-operative in 
     its capacity as a trustee of an occupational pension scheme (as defined in the Act); 
-    (c) Any other liability incurred by that Director as an officer of the Co-operative. 
+    * (c) Any other liability incurred by that Director as an officer of the Co-operative. 
 152.  The above article does not authorise any indemnity which would be prohibited or rendered void 
     by any provision of the Companies Acts or any other provision of law.  
 153.  The Directors may decide to purchase and maintain insurance, at the expense of the 
