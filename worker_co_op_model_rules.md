@@ -300,7 +300,8 @@ Schedule 1 to the Companies (Model Articles) Regulations 2008 shall apply to the
 
       Provided that nothing in this Article shall prevent a Director from counting towards the quorum for Board meetings and voting where the matter relates to her/his own contract of employment or in respect of her/his rights and interests as a Member or Equity Shareholder.
 113.  Subject to anything to the contrary in these Articles:
-    * (a) In accordance with (but subject to) the Companies Acts, the Board of Directors may give authorisation in respect of a situation in which a Director has, or could have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the Co-operative; and * (b) In authorising a situation the Board of Directors may decide, whether at the time of giving the authorisation or subsequently, that if the conflicted Director has obtained any information through her/his involvement in the situation otherwise that as a Director and in respect of which s/he owes a duty of confidentiality to another Person, the Director is
+    * (a) In accordance with (but subject to) the Companies Acts, the Board of Directors may give authorisation in respect of a situation in which a Director has, or could have, a direct or indirect interest that conflicts, or possibly may conflict, with the interests of the Co-operative; and 
+    * (b) In authorising a situation the Board of Directors may decide, whether at the time of giving the authorisation or subsequently, that if the conflicted Director has obtained any information through her/his involvement in the situation otherwise that as a Director and in respect of which s/he owes a duty of confidentiality to another Person, the Director is
     under no obligation to:
       * (i) Disclose that information to the Co-operative; and/or
       * (ii) Use that information for the benefit of the Co-operative;
