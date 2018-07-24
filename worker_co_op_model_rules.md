@@ -341,7 +341,7 @@ where to do so would amount to a breach of confidence.
     * (a) To create a general reserve for the continuation and development of the Co-operative;
     * (b) In accordance with the Co-operative Principle of concern for community, to make payment for social, co-operative and community purposes.
     * (c) To Equity Shareholders in the Co-operative as payment of dividends on their investment in the Co-operative;
-    * (d) In accordance with the Co-operative Principle of member economic participation, to a dividend for Members, either equally or in accordance with some other equitable formula which recognises the relative contribution made by each Member to the business of the Co-operative;
+    * (d) In accordance with the Co-operative Principle of member economic participation, to a bonus for Members, either equally or in accordance with some other equitable formula which recognises the relative contribution made by each Member to the business of the Co-operative;
     * (e) To the redemption of Equity Shares;
 
 122.  In accordance with the Co-operative Principle of member economic participation, the proportion of profits paid out as dividends to Equity Shareholders shall never exceed the proportion paid out as bonuses and dividends to Members and employees who are not Members. The proportion of profits paid out to Equity Shareholders and Members combined shall never exceed 50% of the profits available for distribution.
