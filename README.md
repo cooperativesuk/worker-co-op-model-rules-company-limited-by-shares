@@ -1,4 +1,4 @@
-# worker-co-op-model-rules-company-limited-by-shares
+# Worker Co-operative Model Rules – Company Limited by Shares
 
 In the UK there are many different legal models of registering a co-operative. These rules are one of the ways you can register as worker co-op using the company limited by shares legal form.
 
