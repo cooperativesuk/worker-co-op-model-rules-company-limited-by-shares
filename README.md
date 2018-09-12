@@ -16,6 +16,7 @@ Model key features:
 
 Although we have released this set of model rules under an opensource licence. If you are intending to incorporate with this model do consider contacting Co-operatives UK's team before doing so to ensure the share structure and treatment of shares best fit the needs of your co-operative.
 
-Who are Co-operatives UK
+## Who are Co-operatives UK
+
 The network for Britain’s thousands of co-operative businesses, Co-operatives UK works to promote, develop and unite member-owned business worth £36 billion to the British economy.
 https://www.uk.coop
