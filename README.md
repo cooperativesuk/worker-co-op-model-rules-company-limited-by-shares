@@ -19,3 +19,32 @@ Although we have released this set of model rules under an opensource licence. I
 Who are Co-operatives UK
 The network for Britain’s thousands of co-operative businesses, Co-operatives UK works to promote, develop and unite member-owned business worth £36 billion to the British economy.
 https://www.uk.coop
+
+## Technical Notes
+
+This document is in MarkDown format.
+
+One issue is that you may wish to delete or add clauses. In this case, the numbers of the clauses in the text document will be wrong. For example, deleting clause 5 means the raw document will look like this:
+
+```
+     **Purpose**  
+4. The purpose of the Co-operative is to carry out its function as a co-operative and to abide by the internationally recognised co-operative values and Co-operative Principles as defined by the International Co-operative Alliance.
+    This article is Entrenched in accordance with section 22 of the Act; any alteration to this article requires the approval of 100% of the Members.
+
+     **POWERS**
+6. To further its objects the Co-operative may do all such lawful things as may further the Co-operative's objects and, in particular, may borrow or raise funds for any purpose.
+```
+
+However, when viewing the rendered document in Github it will be renumbered correctly:
+
+```
+Purpose
+
+4. The purpose of the Co-operative is to carry out its function as a co-operative and to abide by the internationally recognised co-operative values and Co-operative Principles as defined by the International Co-operative Alliance. This article is Entrenched in accordance with section 22 of the Act; any alteration to this article requires the approval of 100% of the Members.
+
+POWERS
+
+5. To further its objects the Co-operative may do all such lawful things as may further the Co-operative's objects and, in particular, may borrow or raise funds for any purpose.
+```
+
+So in this case, it is ok! We are not sure if other MarkDown renderers will do the same thing renumbering. 
