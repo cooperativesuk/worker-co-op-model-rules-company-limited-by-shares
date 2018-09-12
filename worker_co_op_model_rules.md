@@ -45,11 +45,6 @@ Schedule 1 to the Companies (Model Articles) Regulations 2008 shall apply to the
 4. The purpose of the Co-operative is to carry out its function as a co-operative and to abide by the internationally recognised co-operative values and Co-operative Principles as defined by the International Co-operative Alliance.
     This article is Entrenched in accordance with section 22 of the Act; any alteration to this article requires the approval of 100% of the Members.
 
-     **Do not include the following if the Co-operative wishes to have unrestricted objects and may**
-**carry out any lawful activity.**
-    **OBJECTS**
-5. The objects of the Co-operative are specifically restricted to carry on the business as a co-operative……
-
      **POWERS**
 6. To further its objects the Co-operative may do all such lawful things as may further the Co-operative's objects and, in particular, may borrow or raise funds for any purpose.
 
@@ -234,12 +229,6 @@ Schedule 1 to the Companies (Model Articles) Regulations 2008 shall apply to the
 84. Those persons notified to the Registrar of Companies on incorporation and such others as they  may determine in writing shall be the initial Board of Directors of the Co-operative from incorporation until the first annual general meeting.
 85. Only persons who are aged 16 years or more may serve on the Board of Directors.
 
-      **OPTION 1: Elected Board of Directors**  
-86. The Board of Directors shall be elected by and from the Co-operative’s Members. The maximum number of Directors serving on the Board shall be determined by a general meeting of the Co-operative from time to time.
-
-      **Retirement Cycle**  
-87. At the first annual general meeting all Directors shall stand down. At every subsequent annual general meeting one-third of the Board of Directors, or if their number is not a multiple of three then the number nearest to one-third, shall retire from office. The Directors to retire shall be the Directors who have been longest in office since their last election. Where Directors have held office for the same amount of time the Director to retire shall be decided by lot. A retiring Director shall be eligible for re-election.  
-
       **OPTION 2: Collective Management**  
 88. Subject to those Directors appointed for the purposes of incorporation, all Members of the Co-operative shall also be Directors. Upon becoming a Member of the Co-operative a person shall be appointed to the Board of Directors and if a person ceases to hold office as a Director they will also cease to be a Member of the Co-operative.
 
@@ -349,9 +338,6 @@ where to do so would amount to a breach of confidence.
       **DISSOLUTION**  
       **OPTION 1: Common Ownership**  
 123.  The Co-operative is a common ownership enterprise. In the event of the winding up or dissolution of the Co-operative the liquidator shall first, according to law, use the assets of the Co-operative to satisfy its debts and liabilities. Any balance of assets remaining may not be distributed among the Members but shall be transferred to some other common ownership co-operative(s) or to Co-operatives UK (or any body that succeeds to its function). If such residual assets cannot be distributed in this manner they shall be transferred to some other organisation(s) whose purpose is to promote and support the Co-operative Movement and common ownership enterprises. This article is Entrenched in accordance with section 22 of the Act; any alteration to this article requires the approval of 100% of the Members.
-
-      **OPTION 2: Co-ownership**  
-124.  The Co-operative is a co-ownership enterprise. In the event of the winding up or dissolution of the Co-operative the liquidator shall first, according to law, use the assets of the Co-operative to satisfy its debts and liabilities. Any balance of assets remaining may be distributed among the Members and those persons who were Members at any time during the six years prior to the date on which the Co-operative decide to wind up. Distribution shall be in proportion to the relative contribution made by Members and past Members during the six years prior to the winding up of the Co-operative, or according to some other equitable formula agreed by the Members on winding up which complies with the Co-operative Principles.  If such residual assets cannot be distributed in this manner they shall be transferred to a common ownership co-operative (s) or to Co-operatives UK (or any body that succeeds to its function).
 
       **ADMINISTRATIVE ARRANGEMENTS**  
       **Share Certificates**  
