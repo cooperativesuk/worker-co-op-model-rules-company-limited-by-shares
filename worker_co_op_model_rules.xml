@@ -1295,9 +1295,11 @@
                     <child-item>
                         <item>
                             Use that information for the benefit of the Co-operative;
-                            where to do so would amount to a breach of confidence.
                         </item>
                     </child-item>
+
+                    <item>where to do so would amount to a breach of confidence.</item>
+
                 </item-with-children>
             </child-item>
         </item-with-children>
