@@ -530,13 +530,9 @@
         <item>
             Within 21 days of the date of transfer of any Equity Share the former Equity Shareholder shall deliver to
             the Secretary a signed stock transfer form in respect of the Equity Shares. If on the expiration of the 21
-            day period no stock transfer form has been received from the former Equity Shareholder, two Directors will
-            be deemed to be the duly appointed attorney of the former Equity Shareholder and shall execute Equity Shares
-            shall carry no right to redemption but the Co-operative shall have the right to require redemption of all or
-            any fully paid up Equity Shares at Par value without requiring the consent of the Equity Shareholder. Such
-            redemption of Equity Shares shall be made out of distributable profits and will be carried out in accordance
-            with the relevant procedures in the Act.a stock transfer form on her/his behalf and deliver it to the
-            Co-operative.
+            day period no stock transfer form has been received from the former Equity Shareholder, two Directors will be
+            deemed to be the duly appointed attorney of the former Equity Shareholder and shall execute a stock transfer
+            form on her/his behalf and deliver it to the Co-operative.
         </item>
 
         <title>Redemption of Equity Shares</title>
@@ -1299,9 +1295,11 @@
                     <child-item>
                         <item>
                             Use that information for the benefit of the Co-operative;
-                            where to do so would amount to a breach of confidence.
                         </item>
                     </child-item>
+
+                    <item>where to do so would amount to a breach of confidence.</item>
+
                 </item-with-children>
             </child-item>
         </item-with-children>
